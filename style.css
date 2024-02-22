@@ -31,3 +31,7 @@ footer {
 section {
   padding-top: 5rem;
 }
+
+.profile {
+  text-align: justify;
+}
