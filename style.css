@@ -1,0 +1,29 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  background-color: #634026;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #a8927f;
+}
+
+#project {
+  background-color: #a8927f;
+}
+
+.btn {
+  background-color: #634026;
+  color: white;
+}
+
+footer {
+  background-color: #634026;
+}
+
+section {
+  padding-top: 5rem;
+}
