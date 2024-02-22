@@ -2,6 +2,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  background-color: white;
+}
+
 .navbar {
   background-color: #634026;
 }
