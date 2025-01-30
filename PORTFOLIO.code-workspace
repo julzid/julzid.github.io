@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Pemrograman Web/KB1"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "PORTFOLIO"
+  }
+}
